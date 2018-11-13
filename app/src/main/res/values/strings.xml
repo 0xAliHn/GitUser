@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitUser</string>
+    <string name="action_filter">Filter</string>
+    <string name="loading_users">Loading Users</string>
+    <string name="git_user">GitUser</string>
+    <string name="summary">Summary</string>
+    <string name="user_company">Company:</string>
+    <string name="user_location">Location:</string>
+    <string name="user_bio">Bio:</string>
+    <string name="user_followers">Followers:</string>
+    <string name="user_following">Following:</string>
+</resources>
